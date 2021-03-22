@@ -1,4 +1,4 @@
-# Quasar App (smackchat)
+# Quasar App (todo app)
 
 A Quasar Framework app
 
